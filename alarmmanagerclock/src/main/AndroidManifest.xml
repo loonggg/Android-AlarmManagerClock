@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.loonggg.lib.alarmmanager.clock">
+
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        >
+        <receiver android:name="com.loonggg.lib.alarmmanager.clock.LoongggAlarmReceiver">
+            <intent-filter>
+                <action android:name="com.loonggg.alarm.clock"/>
+            </intent-filter>
+        </receiver>
+        <activity
+            android:name=".ClockAlarmActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            ></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\as\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_79ce2568cdc4eb33c67e8d6cc3a937a75e375bdd\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4a47076595a6a1c1edb3497c352e45fb479501f1">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d8578824e98898bdd6cdbf5f24649e68d739d14\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_e400966219e865f288a9069e421eed5ba7baec31\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3f00bb9cdb0a14b0db183427d227bfd78b29ec2">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-pickerview-2.0.8_f7362ad657e781fbb326a1ad67aeec0502a18a12\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_fefb74d4f1576f7eb439fa7ef8ad0c8951dc87a6\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_98bf4899e6a1a8ddd3de4d615c28d80b7772b6c9\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_60489f735202d7105c71a11dc78d10aef7208e99\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2d451c1ba8a966aa898476b9f2bdbe5425631e00\classes.dex" />
+    </item>
+    <item
+        jar="D:\github\AlarmManagerClockDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e393244a0231268c6a198eda8d0279c68f41334f">
+        <dex dex="D:\github\AlarmManagerClockDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fd72f7adac70fb0d65f7b01bbfe7d856e2b11346\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_transparent_black">#22000000</color>
+    <color name="light_black">#141414</color>
+    <color name="line_and_outline_grey">#d9d9d9</color>
+    <color name="white">#ffffff</color>
+</resources>

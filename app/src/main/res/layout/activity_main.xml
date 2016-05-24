@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/all_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.loonggg.alarmmanager.clock.MainActivity">
+
+    <TextView
+        android:id="@+id/date_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:text="选择时间"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="50dp"
+        android:background="@color/line_and_outline_grey"/>
+
+    <RelativeLayout
+        android:id="@+id/repeat_rl"
+        style="@style/item_style"
+        >
+
+        <TextView
+            android:id="@+id/tv_repeat"
+            style="@style/item_text_style"
+            android:layout_alignParentLeft="true"
+            android:text="重复"/>
+
+        <TextView
+            android:id="@+id/arrow_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/personal_item_arrow"/>
+
+        <TextView
+            android:id="@+id/tv_repeat_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/arrow_one"
+            android:textColor="@color/black_33"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line_and_outline_grey"/>
+
+    <RelativeLayout
+        android:id="@+id/ring_rl"
+        style="@style/item_style"
+        >
+
+        <TextView
+            android:id="@+id/ring_tv"
+            style="@style/item_text_style"
+            android:layout_alignParentLeft="true"
+            android:text="铃声"/>
+
+        <TextView
+            android:id="@+id/arrow_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/personal_item_arrow"/>
+
+        <TextView
+            android:id="@+id/tv_ring_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/arrow_two"
+            android:textColor="@color/black_33"
+            android:textSize="20sp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line_and_outline_grey"/>
+
+
+    <Button
+        android:id="@+id/set_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="确定"/>
+
+</LinearLayout>

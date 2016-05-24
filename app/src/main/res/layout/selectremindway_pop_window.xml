@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/half_transparent_black"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <TextView
+            android:id="@+id/tv_drugway_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:drawableRight="@null"
+            android:gravity="center"
+            android:text="@string/vibration"
+            android:textColor="@color/black_33"
+            android:textSize="20sp" />
+
+        <TextView style="@style/horizontal_line_style" />
+
+        <TextView
+            android:id="@+id/tv_drugway_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:drawableRight="@null"
+            android:gravity="center"
+            android:text="@string/ring"
+            android:textColor="@color/black_33"
+            android:textSize="20sp" />
+
+        <TextView
+            style="@style/horizontal_line_style"
+            android:layout_marginBottom="20dp" />
+    </LinearLayout>
+
+</RelativeLayout>

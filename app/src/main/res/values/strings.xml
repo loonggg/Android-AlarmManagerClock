@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlarmManagerClockDemo</string>
+    <string name="mon">周一</string>
+    <string name="tue">周二</string>
+    <string name="wed">周三</string>
+    <string name="thu">周四</string>
+    <string name="fri">周五</string>
+    <string name="sat">周六</string>
+    <string name="sun">周日</string>
+    <string name="cycle_sure">确定</string>
+    <string name="vibration">震动</string>
+    <string name="ring">铃声</string>
+</resources>
