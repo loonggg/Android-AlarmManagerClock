@@ -6,7 +6,9 @@
 来看分析和讲解之前，先看看效果吧，效果图如下：
 
 **设置界面**
+
 ![](http://7xsgef.com1.z0.glb.clouddn.com/ssdsfsdfs.gif)
 
 **闹钟提醒界面**
+
 ![](http://7xsgef.com1.z0.glb.clouddn.com/Screenshot_2016-05-24-18-20-28-249_AlarmManagerCl.png)
