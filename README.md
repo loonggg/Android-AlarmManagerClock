@@ -12,3 +12,40 @@
 **闹钟提醒界面**
 
 ![](http://7xsgef.com1.z0.glb.clouddn.com/Screenshot_2016-05-24-18-20-28-249_AlarmManagerCl.png)
+
+### 使用方法介绍：
+
+#### 设置闹钟的方法：
+
+```
+setAlarm(Context context, int flag, int hour, int minute, int id, int
+            week, String tips, int soundOrVibrator)
+```
+
+参数介绍：
+
+@param flag            周期性时间间隔的标志,flag = 0 表示一次性的闹钟, flag = 1 表示每天提醒的闹钟(1天的时间间隔),flag = 2
+表示按周每周提醒的闹钟（一周的周期性时间间隔）
+
+@param hour            时
+
+@param minute          分
+
+@param id              闹钟的id
+
+@param week            week=0表示一次性闹钟或者按天的周期性闹钟，非0 的情况下是几就代表以周为周期性的周几的闹钟
+
+@param tips            闹钟提示信息
+
+@param soundOrVibrator 2表示声音和震动都执行，1表示只有铃声提醒，0表示只有震动提醒
+
+#### 取消闹钟的方法：
+
+```
+canceAlarm(Context context, String action, int id) 
+```
+参数介绍：
+
+action：自定义广播的action
+
+id：设置闹钟时的id
