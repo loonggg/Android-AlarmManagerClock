@@ -5,7 +5,7 @@
 
 具体的详情和解释请看这篇文章：
 
-![具体使用方法和详解](http://godcoder.me/2016/05/25/%E5%85%B3%E4%BA%8EAndroid%E4%B8%AD%E8%AE%BE%E7%BD%AE%E9%97%B9%E9%92%9F%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%AF%94%E8%BE%83%E5%AE%8C%E5%96%84%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
+[具体使用方法和详解](http://godcoder.me/2016/05/25/%E5%85%B3%E4%BA%8EAndroid%E4%B8%AD%E8%AE%BE%E7%BD%AE%E9%97%B9%E9%92%9F%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%AF%94%E8%BE%83%E5%AE%8C%E5%96%84%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
 
 ### 效果图
 来看分析和讲解之前，先看看效果吧，效果图如下：
